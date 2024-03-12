@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget
+    android-versionCode = '1'
+    id = 'com.CodePocker.test'
+    version = '1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>test</name>
+    <description>eric testing</description>
+    <author>eric</author>
+
+    <preference name = 'orientation' value = 'portrait'/>
+
+</widget>
